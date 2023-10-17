@@ -38,7 +38,6 @@ We explore a range of models, including deep learning (Neural Networks), gradien
 ## Getting Started
 
 1. Clone this repository to your local machine.
-2. Install the required dependencies by referring to the [requirements.txt](requirements.txt) file.
-3. Execute the Jupyter Notebook to delve into the code and detailed explanations.
+2. Execute the Jupyter Notebook to delve into the code and detailed explanations.
 
 
