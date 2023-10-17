@@ -2,7 +2,7 @@
 Repository for an entry in the ICR - Identifying Age-Related Conditions focusing on Identifying Age-Related Conditions using a machine learning model.
 # Age-Related Condition Prediction (ICR) Notebook
 
-![ICR Notebook Image]()
+![ICR Notebook Image](download.jfif)
 
 ## Introduction
 
